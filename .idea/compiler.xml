@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Part01_05.Message" />
         <module name="Part01_07.MessageThreeTimes" />
+        <module name="Part01_10.Story" />
         <module name="Part01_09.Conversation" />
         <module name="Part01_08.Greeting" />
       </profile>
