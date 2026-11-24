@@ -18,6 +18,7 @@
         <module name="Part01_15.DifferentTypesOfInput" />
         <module name="Part01_08.Greeting" />
         <module name="Part01_16.SecondsInADay" />
+        <module name="Part01_20.MultiplicationFormula" />
         <module name="Part01_18.SumOfThreeNumbers" />
         <module name="Part01_11.VariousVariables" />
       </profile>
