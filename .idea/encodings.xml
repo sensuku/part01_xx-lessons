@@ -15,5 +15,9 @@
     <file url="file://$PROJECT_DIR$/part01-Part01_11.VariousVariables/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/part01-Part01_12.IntegerInput/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/part01-Part01_12.IntegerInput/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/part01-Part01_13.DoubleInput/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/part01-Part01_13.DoubleInput/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/part01-Part01_14.BooleanInput/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/part01-Part01_14.BooleanInput/src/main/resources" charset="UTF-8" />
   </component>
 </project>
