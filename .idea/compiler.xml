@@ -11,6 +11,7 @@
         <module name="Part01_10.Story" />
         <module name="Part01_09.Conversation" />
         <module name="Part01_08.Greeting" />
+        <module name="Part01_11.VariousVariables" />
       </profile>
     </annotationProcessing>
   </component>
