@@ -15,6 +15,7 @@
         <module name="Part01_12.IntegerInput" />
         <module name="Part01_13.DoubleInput" />
         <module name="Part01_19.AdditionFormula" />
+        <module name="Part01_21.AverageOfTwoNumbers" />
         <module name="Part01_15.DifferentTypesOfInput" />
         <module name="Part01_08.Greeting" />
         <module name="Part01_16.SecondsInADay" />
