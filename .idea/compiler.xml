@@ -21,6 +21,7 @@
         <module name="Part01_11.VariousVariables" />
         <module name="Part01_07.MessageThreeTimes" />
         <module name="Part01_34.Same" />
+        <module name="Part01_36.LeapYear" />
         <module name="Part01_26.Orwell" />
         <module name="Part01_14.BooleanInput" />
         <module name="Part01_22.AverageOfThreeNumbers" />
