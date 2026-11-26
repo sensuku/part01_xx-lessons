@@ -12,6 +12,7 @@
         <module name="Part01_10.Story" />
         <module name="Part01_23.SimpleCalculator" />
         <module name="Part01_09.Conversation" />
+        <module name="Part01_26.Orwell" />
         <module name="Part01_14.BooleanInput" />
         <module name="Part01_12.IntegerInput" />
         <module name="Part01_22.AverageOfThreeNumbers" />
