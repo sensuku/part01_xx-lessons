@@ -30,6 +30,7 @@
         <module name="Part01_16.SecondsInADay" />
         <module name="Part01_28.Positivity" />
         <module name="Part01_20.MultiplicationFormula" />
+        <module name="Part01_32.OddOrEven" />
         <module name="Part01_24.SpeedingTicket" />
         <module name="Part01_30.LargerThanOrEqualTo" />
       </profile>
