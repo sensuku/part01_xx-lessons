@@ -20,10 +20,12 @@
         <module name="Part01_18.SumOfThreeNumbers" />
         <module name="Part01_11.VariousVariables" />
         <module name="Part01_07.MessageThreeTimes" />
+        <module name="Part01_34.Same" />
         <module name="Part01_26.Orwell" />
         <module name="Part01_14.BooleanInput" />
         <module name="Part01_22.AverageOfThreeNumbers" />
         <module name="Part01_29.Adulthood" />
+        <module name="Part01_35.CheckingTheAge" />
         <module name="Part01_19.AdditionFormula" />
         <module name="Part01_21.AverageOfTwoNumbers" />
         <module name="Part01_15.DifferentTypesOfInput" />
