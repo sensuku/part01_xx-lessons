@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Part01_05.Message" />
         <module name="Part01_17.SumOfTwoNumbers" />
+        <module name="Part01_31.gradesAndPoints" />
         <module name="Part01_10.Story" />
         <module name="Part01_23.SimpleCalculator" />
         <module name="Part01_09.Conversation" />
