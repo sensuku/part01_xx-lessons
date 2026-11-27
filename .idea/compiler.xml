@@ -23,6 +23,7 @@
         <module name="Part01_11.VariousVariables" />
         <module name="Part01_07.MessageThreeTimes" />
         <module name="Part01_34.Same" />
+        <module name="Part02_03.AbsoluteValue" />
         <module name="Part01_36.LeapYear" />
         <module name="Part01_26.Orwell" />
         <module name="Part01_14.BooleanInput" />
@@ -36,6 +37,7 @@
         <module name="Part01_16.SecondsInADay" />
         <module name="Part01_28.Positivity" />
         <module name="Part01_20.MultiplicationFormula" />
+        <module name="Part02_04.ComparingNumbers" />
         <module name="Part02_02.SquareRootOfSum" />
         <module name="Part01_32.OddOrEven" />
         <module name="Part01_24.SpeedingTicket" />
